@@ -1,0 +1,15 @@
+# ninja log v6
+3	498	7802288008155262	SignalSlotExample_autogen/timestamp	9f976b98a487193e
+3	498	7802288008155262	SignalSlotExample_autogen/mocs_compilation.cpp	9f976b98a487193e
+3	498	7802288008155262	D:/GitHubRepository/SignalSlotExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SignalSlotExample_autogen/timestamp	9f976b98a487193e
+3	498	7802288008155262	D:/GitHubRepository/SignalSlotExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SignalSlotExample_autogen/mocs_compilation.cpp	9f976b98a487193e
+504	2060	7802288008716509	CMakeFiles/SignalSlotExample.dir/SignalSlotExample_autogen/mocs_compilation.cpp.obj	6dfdad515ca579b4
+506	2068	7802288008736533	CMakeFiles/SignalSlotExample.dir/main.cpp.obj	a98be5eb6833c314
+510	2166	7802288008776543	CMakeFiles/SignalSlotExample.dir/mainwindow.cpp.obj	d773653eda0038d4
+2167	2361	7802288025344302	SignalSlotExample.exe	82207a892cc05e39
+6	122	7802290305610501	SignalSlotExample_autogen/timestamp	9f976b98a487193e
+6	122	7802290305610501	SignalSlotExample_autogen/mocs_compilation.cpp	9f976b98a487193e
+6	122	7802290305610501	D:/GitHubRepository/SignalSlotExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SignalSlotExample_autogen/timestamp	9f976b98a487193e
+6	122	7802290305610501	D:/GitHubRepository/SignalSlotExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SignalSlotExample_autogen/mocs_compilation.cpp	9f976b98a487193e
+122	1580	7802290306779265	CMakeFiles/SignalSlotExample.dir/mainwindow.cpp.obj	d773653eda0038d4
+1580	1732	7802290321351784	SignalSlotExample.exe	82207a892cc05e39
