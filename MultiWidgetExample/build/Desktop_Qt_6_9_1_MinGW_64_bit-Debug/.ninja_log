@@ -1,0 +1,20 @@
+# ninja log v6
+3	454	7802389192305380	MultiWidgetExample_autogen/timestamp	ab24987d8c84aa2e
+3	454	7802389192305380	MultiWidgetExample_autogen/mocs_compilation.cpp	ab24987d8c84aa2e
+3	454	7802389192305380	D:/GitHubRepository/MultiWidgetExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MultiWidgetExample_autogen/timestamp	ab24987d8c84aa2e
+3	454	7802389192305380	D:/GitHubRepository/MultiWidgetExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MultiWidgetExample_autogen/mocs_compilation.cpp	ab24987d8c84aa2e
+459	1970	7802389192795269	CMakeFiles/MultiWidgetExample.dir/MultiWidgetExample_autogen/mocs_compilation.cpp.obj	e3ba1c3f14229e6
+462	1978	7802389192825230	CMakeFiles/MultiWidgetExample.dir/main.cpp.obj	bf66a066b51d3132
+467	2015	7802389192875794	CMakeFiles/MultiWidgetExample.dir/secondwidget.cpp.obj	8ea9d7ccd5de7b51
+6	111	7802389328994328	MultiWidgetExample_autogen/timestamp	ab24987d8c84aa2e
+6	111	7802389328994328	MultiWidgetExample_autogen/mocs_compilation.cpp	ab24987d8c84aa2e
+6	111	7802389328994328	D:/GitHubRepository/MultiWidgetExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MultiWidgetExample_autogen/timestamp	ab24987d8c84aa2e
+6	111	7802389328994328	D:/GitHubRepository/MultiWidgetExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MultiWidgetExample_autogen/mocs_compilation.cpp	ab24987d8c84aa2e
+115	1536	7802389330088494	CMakeFiles/MultiWidgetExample.dir/secondwidget.cpp.obj	8ea9d7ccd5de7b51
+8	102	7802389439818557	MultiWidgetExample_autogen/timestamp	ab24987d8c84aa2e
+8	102	7802389439818557	MultiWidgetExample_autogen/mocs_compilation.cpp	ab24987d8c84aa2e
+8	102	7802389439818557	D:/GitHubRepository/MultiWidgetExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MultiWidgetExample_autogen/timestamp	ab24987d8c84aa2e
+8	102	7802389439818557	D:/GitHubRepository/MultiWidgetExample/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/MultiWidgetExample_autogen/mocs_compilation.cpp	ab24987d8c84aa2e
+106	1642	7802389440789552	CMakeFiles/MultiWidgetExample.dir/secondwidget.cpp.obj	8ea9d7ccd5de7b51
+103	1659	7802389440769589	CMakeFiles/MultiWidgetExample.dir/mainwindow.cpp.obj	cd5e8062e209da8e
+1659	1819	7802389456335087	MultiWidgetExample.exe	e0b996495dcbc6de
